@@ -1,0 +1,18 @@
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\Questions_infoSA.csv
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\Questions_StatSA.csv
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\L2_U2-5.exe.config
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\L2_U2-5.exe
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\L2_U2-5.pdb
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\obj\Debug\L2_U2-5.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\obj\Debug\L2_U2-5.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\obj\Debug\L2_U2-5.exe
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\obj\Debug\L2_U2-5.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\Questions_infoSA.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\Questions_StatSA.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\L2_U2-5.exe.config
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\L2_U2-5.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\bin\Debug\L2_U2-5.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\obj\Debug\L2_U2-5.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\obj\Debug\L2_U2-5.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\obj\Debug\L2_U2-5.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L2_U2-5\L2_U2-5\obj\Debug\L2_U2-5.pdb

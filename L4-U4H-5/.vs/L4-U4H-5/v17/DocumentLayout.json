@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60644E08-699B-46D9-8A72-6EE091684CFC}|L\\L.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\l\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60644E08-699B-46D9-8A72-6EE091684CFC}|L\\L.csproj|solutionrelative:l\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60644E08-699B-46D9-8A72-6EE091684CFC}|L\\L.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\l\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60644E08-699B-46D9-8A72-6EE091684CFC}|L\\L.csproj|solutionrelative:l\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60644E08-699B-46D9-8A72-6EE091684CFC}|L\\L.csproj|c:\\users\\edvin\\desktop\\univero shananigans\\studijos\\op laborai\\l4-u4h-5\\l\\knyga2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{60644E08-699B-46D9-8A72-6EE091684CFC}|L\\L.csproj|solutionrelative:l\\knyga2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60644E08-699B-46D9-8A72-6EE091684CFC}|L\\L.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\l\\knyga1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{60644E08-699B-46D9-8A72-6EE091684CFC}|L\\L.csproj|solutionrelative:l\\knyga1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\L\\Program.cs",
+              "RelativeDocumentMoniker": "L\\Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\L\\Program.cs",
+              "RelativeToolTip": "L\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:39:00.284Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inOut.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\L\\inOut.cs",
+              "RelativeDocumentMoniker": "L\\inOut.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\L\\inOut.cs",
+              "RelativeToolTip": "L\\inOut.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAqwMYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:17:01.289Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Knyga1.txt",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\L\\Knyga1.txt",
+              "RelativeDocumentMoniker": "L\\Knyga1.txt",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\L\\Knyga1.txt",
+              "RelativeToolTip": "L\\Knyga1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-19T13:06:39.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Knyga2.txt",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\L\\Knyga2.txt",
+              "RelativeDocumentMoniker": "L\\Knyga2.txt",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L4-U4H-5\\L\\Knyga2.txt",
+              "RelativeToolTip": "L\\Knyga2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-19T13:06:47.377Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

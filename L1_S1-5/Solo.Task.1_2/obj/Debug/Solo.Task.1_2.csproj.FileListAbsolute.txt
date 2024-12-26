@@ -1,0 +1,7 @@
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\Solo.Task\Solo.Task.1_2\bin\Debug\Solo.Task.1_2.exe.config
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\Solo.Task\Solo.Task.1_2\bin\Debug\Solo.Task.1_2.exe
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\Solo.Task\Solo.Task.1_2\bin\Debug\Solo.Task.1_2.pdb
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\Solo.Task\Solo.Task.1_2\obj\Debug\Solo.Task.1_2.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\Solo.Task\Solo.Task.1_2\obj\Debug\Solo.Task.1_2.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\Solo.Task\Solo.Task.1_2\obj\Debug\Solo.Task.1_2.exe
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\Solo.Task\Solo.Task.1_2\obj\Debug\Solo.Task.1_2.pdb

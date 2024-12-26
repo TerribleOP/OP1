@@ -1,0 +1,27 @@
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\bin\Debug\Vaccinations.csv
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\bin\Debug\Lab5.Exercises.exe.config
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\bin\Debug\Lab5.Exercises.exe
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\bin\Debug\Lab5.Exercises.pdb
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.AssemblyReference.cache
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\obj\Debug\Lab5.Exercises.exe
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\obj\Debug\Lab5.Exercises.pdb
+C:\Users\Puddle\Desktop\l5 dogs\Lab5.Exercises\Lab5.Exercises\bin\Debug\Animals.csv
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\bin\Debug\Animals.csv
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\bin\Debug\Vaccinations.csv
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\bin\Debug\Lab5.Exercises.exe.config
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\bin\Debug\Lab5.Exercises.exe
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\bin\Debug\Lab5.Exercises.pdb
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.AssemblyReference.cache
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\obj\Debug\Lab5.Exercises.exe
+C:\Users\edvin\Downloads\Lab5.Exercises\Lab5.Exercises\obj\Debug\Lab5.Exercises.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\bin\Debug\Animals.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\bin\Debug\Vaccinations.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\bin\Debug\Lab5.Exercises.exe.config
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\bin\Debug\Lab5.Exercises.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\bin\Debug\Lab5.Exercises.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\obj\Debug\Lab5.Exercises.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\dog register\Lab5.Exercises\obj\Debug\Lab5.Exercises.pdb

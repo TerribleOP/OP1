@@ -1,0 +1,3 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Tema |Sunkumas|Autorius|Klausimas|Ats. Nr.1|Ats. Nr.2|Ats. Nr.3|Ats. Nr.4|Teisingo Ats. Nr.|Skiriami taškai už teisingą atsakymą |                                 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Art       |    3|Emily Carter   |Who painted 'The Persistence of Memory'?          |Pablo Picasso      |Salvador Dali    |Vincent Van Gogh |Salvador Dali      |5|3|

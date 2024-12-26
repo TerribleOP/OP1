@@ -1,0 +1,11 @@
+Student representation of the Faculty of Construction and Architecture
+open;Math;1;Alice Johnson;What is 7 + 8?;15;3
+closed;History;2;John Smith;Who discovered America in 1492?;Christopher Columbus;7;Christopher Columbus;Marco Polo;Leif Erikson;James Cook
+musical;Literature;3;John Smith;Identify the author of this classic novel.;Charles Dickens;9;novel_excerpt.mp3
+closed;Math;2;Alice Johnson;What is the square of 12?;144;6;144;12;121;100
+open;Literature;1;John Smith;What is a sonnet?;A 14-line poem;4
+musical;History;2;John Smith;Identify the national anthem from this audio.;The Star-Spangled Banner;8;anthem_sample.mp3
+closed;Math;3;John Smith;What is the integral of 1/x?;ln(x) + C;9;ln(x) + C;x^2;1/x;log(x)
+open;History;1;John Smith;Which empire was ruled by Julius Caesar?;Roman Empire;5
+musical;Math;2;Emily Clarke;Identify the mathematician from this melody.;Pythagoras;6;math_harmony.mp3
+closed;Literature;3;Emily Clarke;Who wrote "The Great Gatsby"?;F. Scott Fitzgerald;10;F. Scott Fitzgerald;Ernest Hemingway;John Steinbeck;T.S. Eliot

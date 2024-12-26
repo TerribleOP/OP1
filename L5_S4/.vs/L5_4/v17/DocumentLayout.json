@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\playerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:playerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|c:\\users\\edvin\\desktop\\univero shananigans\\studijos\\op laborai\\l5_4\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\datateam.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:datateam.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\playercontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:playercontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\basketball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:basketball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\football.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E72EBF6-32EC-4C78-8658-C972ECCC6614}|L5_4.csproj|solutionrelative:football.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:45:24.1Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerRegister.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\PlayerRegister.cs",
+              "RelativeDocumentMoniker": "PlayerRegister.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\PlayerRegister.cs",
+              "RelativeToolTip": "PlayerRegister.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAApwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:47:34.653Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InOutUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\InOutUtils.cs",
+              "RelativeDocumentMoniker": "InOutUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\InOutUtils.cs",
+              "RelativeToolTip": "InOutUtils.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:41:55.94Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerContainer.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\PlayerContainer.cs",
+              "RelativeDocumentMoniker": "PlayerContainer.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\PlayerContainer.cs",
+              "RelativeToolTip": "PlayerContainer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAASwG0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:47:44.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Football.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Football.cs",
+              "RelativeDocumentMoniker": "Football.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Football.cs",
+              "RelativeToolTip": "Football.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:46:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Basketball.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Basketball.cs",
+              "RelativeDocumentMoniker": "Basketball.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Basketball.cs",
+              "RelativeToolTip": "Basketball.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:45:55.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:45:43.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Team.cs",
+              "RelativeDocumentMoniker": "Team.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\Team.cs",
+              "RelativeToolTip": "Team.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:07:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "data.csv",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\data.csv",
+              "RelativeDocumentMoniker": "data.csv",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\data.csv",
+              "RelativeToolTip": "data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-03T16:10:07.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "datateam.csv",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\datateam.csv",
+              "RelativeDocumentMoniker": "datateam.csv",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_4\\datateam.csv",
+              "RelativeToolTip": "datateam.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-04T07:28:59.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\bin\Debug\HouseData.csv
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\bin\Debug\HouseFinder.exe.config
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\bin\Debug\HouseFinder.exe
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\bin\Debug\HouseFinder.pdb
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\obj\Debug\HouseFinder.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\obj\Debug\HouseFinder.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\obj\Debug\HouseFinder.exe
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\obj\Debug\HouseFinder.pdb
+C:\Users\edvin\Desktop\Studijos\OP LABORAI\L2_U-4\HouseFinder\bin\Debug\HouseFinder.csv

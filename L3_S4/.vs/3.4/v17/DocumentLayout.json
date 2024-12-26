@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|c:\\users\\edvin\\desktop\\univero shananigans\\studijos\\op laborai\\3.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\studentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|solutionrelative:studentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|solutionrelative:inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\studentcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|solutionrelative:studentcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\students.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{33A8BB5E-0F13-489B-B108-9BE8F6235043}|3.4.csproj|solutionrelative:students.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvxkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:23:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRegister.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\StudentRegister.cs",
+              "RelativeDocumentMoniker": "StudentRegister.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\StudentRegister.cs",
+              "RelativeToolTip": "StudentRegister.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:24:38.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentContainer.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\StudentContainer.cs",
+              "RelativeDocumentMoniker": "StudentContainer.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\StudentContainer.cs",
+              "RelativeToolTip": "StudentContainer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:23:28.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InOutUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\InOutUtils.cs",
+              "RelativeDocumentMoniker": "InOutUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\InOutUtils.cs",
+              "RelativeToolTip": "InOutUtils.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:24:17.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:24:08.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.csv",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\Students.csv",
+              "RelativeDocumentMoniker": "Students.csv",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\3.4\\Students.csv",
+              "RelativeToolTip": "Students.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-20T09:23:54.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

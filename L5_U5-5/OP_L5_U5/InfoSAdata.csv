@@ -1,0 +1,11 @@
+Student representation of the Faculty of Informatics
+open;Literature;1;Emily Clarke;Who is the protagonist of "Hamlet"?;Prince Hamlet;4
+closed;Math;2;Alice Johnson;What is 25% of 200?;50;5;50;25;75;100
+musical;History;3;John Smith;Identify the historical speech from this clip.;I Have a Dream;9;speech_audio.mp3
+closed;Literature;2;Emily Clarke;What is the pen name of Samuel Clemens?;Mark Twain;6;Mark Twain;Charles Dickens;Edgar Allan Poe;William Faulkner
+open;Math;1;Alice Johnson;What is the value of 2^5?;32;4
+musical;Math;2;Emily Clarke;Identify the formula explained in this clip.;Quadratic Formula;8;formula_tune.mp3
+closed;History;3;John Smith;In what year did the Berlin Wall fall?;1989;7;1989;1991;1979;1990
+open;Literature;2;Alice Johnson;What is the theme of George Orwells "1984"?;Totalitarianism;6
+musical;History;1;Emily Clarke;Identify the national anthem of this country.;God Save the Queen;5;anthem_britain.mp3
+closed;Math;3;John Smith;What is the limit of (1 + 1/n)^n as n approaches infinity?;e;10;e;2.71;1;0

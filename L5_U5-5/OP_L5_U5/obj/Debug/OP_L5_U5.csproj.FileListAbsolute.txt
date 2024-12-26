@@ -1,0 +1,20 @@
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\bin\Debug\InfoSAdata.csv
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\bin\Debug\Statiusdata.csv
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\bin\Debug\Vivatdata.csv
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\bin\Debug\OP_L5_U5.exe.config
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\bin\Debug\OP_L5_U5.exe
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\bin\Debug\OP_L5_U5.pdb
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\obj\Debug\OP_L5_U5.csproj.AssemblyReference.cache
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\obj\Debug\OP_L5_U5.csproj.CoreCompileInputs.cache
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\obj\Debug\OP_L5_U5.exe
+C:\Users\edvin\source\repos\L5_U5\OP_L5_U5\obj\Debug\OP_L5_U5.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\bin\Debug\InfoSAdata.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\bin\Debug\Statiusdata.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\bin\Debug\Vivatdata.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\bin\Debug\OP_L5_U5.exe.config
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\bin\Debug\OP_L5_U5.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\bin\Debug\OP_L5_U5.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\obj\Debug\OP_L5_U5.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\obj\Debug\OP_L5_U5.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\obj\Debug\OP_L5_U5.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L5_U5\OP_L5_U5\obj\Debug\OP_L5_U5.pdb

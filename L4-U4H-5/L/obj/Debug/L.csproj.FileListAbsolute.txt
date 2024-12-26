@@ -1,0 +1,9 @@
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\bin\Debug\Knyga1.txt
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\bin\Debug\Knyga2.txt
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\bin\Debug\L.exe.config
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\bin\Debug\L.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\bin\Debug\L.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\obj\Debug\L.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\obj\Debug\L.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\obj\Debug\L.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L4-U4H-5\L\obj\Debug\L.pdb

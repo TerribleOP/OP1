@@ -1,0 +1,18 @@
+C:\Users\edvin\Desktop\3\L3_U3-5\bin\Debug\Questions_infoSA.csv
+C:\Users\edvin\Desktop\3\L3_U3-5\bin\Debug\Questions_statSA.csv
+C:\Users\edvin\Desktop\3\L3_U3-5\bin\Debug\L3_U3-5.exe.config
+C:\Users\edvin\Desktop\3\L3_U3-5\bin\Debug\L3_U3-5.exe
+C:\Users\edvin\Desktop\3\L3_U3-5\bin\Debug\L3_U3-5.pdb
+C:\Users\edvin\Desktop\3\L3_U3-5\obj\Debug\L3_U3-5.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\3\L3_U3-5\obj\Debug\L3_U3-5.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\3\L3_U3-5\obj\Debug\L3_U3-5.exe
+C:\Users\edvin\Desktop\3\L3_U3-5\obj\Debug\L3_U3-5.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\bin\Debug\Questions_infoSA.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\bin\Debug\Questions_statSA.csv
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\bin\Debug\L3_U3-5.exe.config
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\bin\Debug\L3_U3-5.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\bin\Debug\L3_U3-5.pdb
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\obj\Debug\L3_U3-5.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\obj\Debug\L3_U3-5.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\obj\Debug\L3_U3-5.exe
+C:\Users\edvin\Desktop\Univero Shananigans\Studijos\OP LABORAI\L3_U3-5\obj\Debug\L3_U3-5.pdb

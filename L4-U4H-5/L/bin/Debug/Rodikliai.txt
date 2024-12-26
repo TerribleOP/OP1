@@ -1,0 +1,12 @@
+Surikiuoti nepasikartojantys žodžiai:
+Žodis: kaip, Kiekis: 1
+
+Ilgiausias sakinys: Kaip?
+Eilės indeksas: 1
+Žodžių kiekis: 1
+Simbolių kiekis: 5
+
+Ilgiausias sakinys: šiandien!
+Eilės indeksas: 1
+Žodžiu kiekis: 1
+Simboliu kiekis: 9

@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|c:\\users\\edvin\\desktop\\univero shananigans\\studijos\\op laborai\\l5_u5\\op_l5_u5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\questionregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\questionregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\questioncomparitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\questioncomparitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\musicquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\musicquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\infosadata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\infosadata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\statiusdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\statiusdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\op_l5_u5\\vivatdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB13A5A7-C8D6-478B-9708-20A7352F9286}|OP_L5_U5\\OP_L5_U5.csproj|solutionrelative:op_l5_u5\\vivatdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\Program.cs",
+              "RelativeDocumentMoniker": "OP_L5_U5\\Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\Program.cs",
+              "RelativeToolTip": "OP_L5_U5\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:43:46.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionRegister.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\QuestionRegister.cs",
+              "RelativeDocumentMoniker": "OP_L5_U5\\QuestionRegister.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\QuestionRegister.cs",
+              "RelativeToolTip": "OP_L5_U5\\QuestionRegister.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAADwv7IAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:44:53.756Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InOut.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\InOut.cs",
+              "RelativeDocumentMoniker": "OP_L5_U5\\InOut.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\InOut.cs",
+              "RelativeToolTip": "OP_L5_U5\\InOut.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:06:55.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\Question.cs",
+              "RelativeDocumentMoniker": "OP_L5_U5\\Question.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\Question.cs",
+              "RelativeToolTip": "OP_L5_U5\\Question.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvywAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:48:49.904Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\TestQuestion.cs",
+              "RelativeDocumentMoniker": "OP_L5_U5\\TestQuestion.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\TestQuestion.cs",
+              "RelativeToolTip": "OP_L5_U5\\TestQuestion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:54:30.416Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\MusicQuestion.cs",
+              "RelativeDocumentMoniker": "OP_L5_U5\\MusicQuestion.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\MusicQuestion.cs",
+              "RelativeToolTip": "OP_L5_U5\\MusicQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:05:08.799Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vivatdata.csv",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\Vivatdata.csv",
+              "RelativeDocumentMoniker": "OP_L5_U5\\Vivatdata.csv",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\Vivatdata.csv",
+              "RelativeToolTip": "OP_L5_U5\\Vivatdata.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-06T11:21:10.996Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Statiusdata.csv",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\Statiusdata.csv",
+              "RelativeDocumentMoniker": "OP_L5_U5\\Statiusdata.csv",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\Statiusdata.csv",
+              "RelativeToolTip": "OP_L5_U5\\Statiusdata.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-06T11:20:58.067Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InfoSAdata.csv",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\InfoSAdata.csv",
+              "RelativeDocumentMoniker": "OP_L5_U5\\InfoSAdata.csv",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\InfoSAdata.csv",
+              "RelativeToolTip": "OP_L5_U5\\InfoSAdata.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-06T11:20:44.077Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionComparitor.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\QuestionComparitor.cs",
+              "RelativeDocumentMoniker": "OP_L5_U5\\QuestionComparitor.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shananigans\\Studijos\\OP LABORAI\\L5_U5\\OP_L5_U5\\QuestionComparitor.cs",
+              "RelativeToolTip": "OP_L5_U5\\QuestionComparitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:44:58.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\edvin\Desktop\L5_4\bin\Debug\data.csv
+C:\Users\edvin\Desktop\L5_4\bin\Debug\L5_4.exe.config
+C:\Users\edvin\Desktop\L5_4\bin\Debug\L5_4.exe
+C:\Users\edvin\Desktop\L5_4\bin\Debug\L5_4.pdb
+C:\Users\edvin\Desktop\L5_4\obj\Debug\L5_4.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\L5_4\obj\Debug\L5_4.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\L5_4\obj\Debug\L5_4.exe
+C:\Users\edvin\Desktop\L5_4\obj\Debug\L5_4.pdb
+C:\Users\edvin\Desktop\L5_4\bin\Debug\datateam.csv

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4583EC4-0B4C-496C-A3F0-8C124B352442}|Solo.Task.2_1\\Solo.Task.2_1.csproj|c:\\users\\edvin\\desktop\\ktu\\l1_s1-5\\solo.task.2_1\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4583EC4-0B4C-496C-A3F0-8C124B352442}|Solo.Task.2_1\\Solo.Task.2_1.csproj|solutionrelative:solo.task.2_1\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4583EC4-0B4C-496C-A3F0-8C124B352442}|Solo.Task.2_1\\Solo.Task.2_1.csproj|C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\solo.task.2_1\\taskutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4583EC4-0B4C-496C-A3F0-8C124B352442}|Solo.Task.2_1\\Solo.Task.2_1.csproj|solutionrelative:solo.task.2_1\\taskutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4583EC4-0B4C-496C-A3F0-8C124B352442}|Solo.Task.2_1\\Solo.Task.2_1.csproj|C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\solo.task.2_1\\inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4583EC4-0B4C-496C-A3F0-8C124B352442}|Solo.Task.2_1\\Solo.Task.2_1.csproj|solutionrelative:solo.task.2_1\\inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4583EC4-0B4C-496C-A3F0-8C124B352442}|Solo.Task.2_1\\Solo.Task.2_1.csproj|C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\solo.task.2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4583EC4-0B4C-496C-A3F0-8C124B352442}|Solo.Task.2_1\\Solo.Task.2_1.csproj|solutionrelative:solo.task.2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81EB1E0-43CD-402C-9129-04132E09B630}|Solo.Task.1_4\\Solo.Task.1_4.csproj|C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\solo.task.1_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81EB1E0-43CD-402C-9129-04132E09B630}|Solo.Task.1_4\\Solo.Task.1_4.csproj|solutionrelative:solo.task.1_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F203ED4-DE05-47AD-970A-0B04A726FB0C}|Solo.Task.1_3\\Solo.Task.1_3.csproj|C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\solo.task.1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F203ED4-DE05-47AD-970A-0B04A726FB0C}|Solo.Task.1_3\\Solo.Task.1_3.csproj|solutionrelative:solo.task.1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA8CC03-3050-47CC-ABC9-715BEDEA974A}|Solo.Task.1_2\\Solo.Task.1_2.csproj|C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\solo.task.1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA8CC03-3050-47CC-ABC9-715BEDEA974A}|Solo.Task.1_2\\Solo.Task.1_2.csproj|solutionrelative:solo.task.1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7F9E57-26AC-4318-BDC3-B3BE1F03DDE6}|Solo.Task.1_1\\Solo.Task.1_1.csproj|C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\solo.task.1_1\\inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7F9E57-26AC-4318-BDC3-B3BE1F03DDE6}|Solo.Task.1_1\\Solo.Task.1_1.csproj|solutionrelative:solo.task.1_1\\inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7F9E57-26AC-4318-BDC3-B3BE1F03DDE6}|Solo.Task.1_1\\Solo.Task.1_1.csproj|C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\solo.task.1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7F9E57-26AC-4318-BDC3-B3BE1F03DDE6}|Solo.Task.1_1\\Solo.Task.1_1.csproj|solutionrelative:solo.task.1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_3\\Program.cs",
+              "RelativeDocumentMoniker": "Solo.Task.1_3\\Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_3\\Program.cs",
+              "RelativeToolTip": "Solo.Task.1_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:43:37.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_2\\Program.cs",
+              "RelativeDocumentMoniker": "Solo.Task.1_2\\Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_2\\Program.cs",
+              "RelativeToolTip": "Solo.Task.1_2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:41:15.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InOutUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_1\\InOutUtils.cs",
+              "RelativeDocumentMoniker": "Solo.Task.1_1\\InOutUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_1\\InOutUtils.cs",
+              "RelativeToolTip": "Solo.Task.1_1\\InOutUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:37:50.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_1\\Program.cs",
+              "RelativeDocumentMoniker": "Solo.Task.1_1\\Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_1\\Program.cs",
+              "RelativeToolTip": "Solo.Task.1_1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:36:50.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_4\\Program.cs",
+              "RelativeDocumentMoniker": "Solo.Task.1_4\\Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.1_4\\Program.cs",
+              "RelativeToolTip": "Solo.Task.1_4\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:34:45.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tourist.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.2_1\\Tourist.cs",
+              "RelativeDocumentMoniker": "Solo.Task.2_1\\Tourist.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.2_1\\Tourist.cs",
+              "RelativeToolTip": "Solo.Task.2_1\\Tourist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:08:21.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.2_1\\TaskUtils.cs",
+              "RelativeDocumentMoniker": "Solo.Task.2_1\\TaskUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.2_1\\TaskUtils.cs",
+              "RelativeToolTip": "Solo.Task.2_1\\TaskUtils.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:08:18.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.2_1\\Program.cs",
+              "RelativeDocumentMoniker": "Solo.Task.2_1\\Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.2_1\\Program.cs",
+              "RelativeToolTip": "Solo.Task.2_1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:08:16.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InOutUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.2_1\\InOutUtils.cs",
+              "RelativeDocumentMoniker": "Solo.Task.2_1\\InOutUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\KTU\\L1_S1-5\\Solo.Task.2_1\\InOutUtils.cs",
+              "RelativeToolTip": "Solo.Task.2_1\\InOutUtils.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:07:45.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

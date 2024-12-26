@@ -1,0 +1,11 @@
+Student representation of the Faculty of Chemical Technology
+open;Math;2;Alice Johnson;What is the square root of 81?;9;5
+closed;History;3;Alice Johnson;Who was the first President of the United States?;George Washington;8;George Washington;Thomas Jefferson;Abraham Lincoln;Alexander Hamilton
+musical;Literature;1;Alice Johnson;Identify the author of this poem.;Robert Frost;7;poem_sample.mp3
+closed;Math;2;Alice Johnson;What is the value of pi to three decimal places?;3.142;9;3.142;3.14;3;22/7
+open;History;1;Alice Johnson;In what year did World War II end?;1945;4
+musical;Math;2;Emily Clarke;Identify the mathematician from this description.;Euclid;6;geometry_theme.mp3
+closed;Literature;3;Emily Clarke;Who wrote "Pride and Prejudice"?;Jane Austen;7;Jane Austen;Charlotte Bronte;Mark Twain;Leo Tolstoy
+open;Literature;1;John Smith;What is the literary term for a story within a story?;Frame Narrative;3
+musical;History;2;Emily Clarke;Identify the historical speech from this audio.;Gettysburg Address;8;speech_sample.mp3
+closed;Math;3;John Smith;What is the derivative of x^2?;2x;10;2x;x^2;1;0
