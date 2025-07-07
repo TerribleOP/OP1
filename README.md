@@ -2,4 +2,4 @@ Skirta archyvuoti savo atliktus darbus
 
 Kopijuoti draudžiama pagal akademinio sąžiningumo aktus
 
-17 var
+5 var
